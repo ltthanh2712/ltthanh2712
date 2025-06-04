@@ -23,7 +23,7 @@
   <a href="https://www.facebook.com/ltt2712?locale=vi_VN" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
   </a> 
-  <a href="https://github.com/ltthanh2712" target="_targer">
+  <a href="https://github.com/ltthanh2712" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="mailto:your.email@gmail.com" target="_blank">
