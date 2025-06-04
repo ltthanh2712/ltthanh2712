@@ -53,16 +53,14 @@
 
 ## 📊 Activities:
 
-<table style="width:100%;">
+<table>
   <tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltthanh2712&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=10&custom_title=Top%20languages%20used" alt="ltthanh2712" width="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ltthanh2712&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="ltthanh2712" width="100%"/>
-</td>
     <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltthanh2712&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=10&custom_title=Top%20Languages" alt="Top Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ltthanh2712&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td>
+      <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding" width="100%"/>
     </td>
   </tr>
 </table>
