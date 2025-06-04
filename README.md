@@ -1,6 +1,6 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 
-<h1 align="center">Hi 👋, I'm Lê Thành</h1>
+<h1 align="center">Hi 👋, I'm Thành</h1>
 
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
@@ -10,7 +10,7 @@
 
 - ✍ I'm a student at: [Ho Chi Minh City University of Foreign Languages and Information Technology (HUFLIT)](https://huflit.edu.vn/)
 
-- 🌱 I’m currently learning **C#, ASP.NET Core, Java, Android Development**
+- 🌱 I’m currently learning **C#, C++, HTML, CSS, JAVASCRIPT, PYTHON, NODEJS, JAVA**
 
 ---
 
@@ -70,11 +70,6 @@
 ---
 
 ## 🏅 Certificates:
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
-
-- 💡 Responsive Web Design - freeCodeCamp  
-- 🧠 Java OOP Certificate - CodingSchool  
-- 🎓 ASP.NET Core MVC - internal university project  
 
 ---
 
