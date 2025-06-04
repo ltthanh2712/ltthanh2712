@@ -70,12 +70,5 @@
 ---
 
 ## 🏅 Certificates:
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
-
-- 💡 Responsive Web Design - freeCodeCamp  
-- 🧠 Java OOP Certificate - CodingSchool  
-- 🎓 ASP.NET Core MVC - internal university project  
-
----
 
 <p align="center">⭐️ Thank you for visiting my GitHub profile!</p>
