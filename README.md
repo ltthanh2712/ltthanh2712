@@ -1,52 +1,81 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi%20there,%20I'm%20ltthanh2712!&fontSize=40&fontAlign=50&fontColor=ffffff" />
-</p>
+<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 
-<!-- Giới thiệu bản thân -->
-<h2 align="center">👨‍💻 Về tôi</h2>
+<h1 align="center">Hi 👋, I'm Lê Thành</h1>
 
 <p align="center">
-  🎓 Sinh viên CNTT, đam mê lập trình web và mobile<br>
-  💻 Đang học: ASP.NET Core MVC, Android Java/Kotlin<br>
-  🚀 Mục tiêu: Trở thành fullstack developer trong tương lai gần
+  <h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
 </p>
 
 ---
 
-<h2 align="center">🧰 Kỹ năng</h2>
+- ✍ I'm a student at: [Ho Chi Minh City University of Foreign Languages and Information Technology (HUFLIT)](https://huflit.edu.vn/)
+
+- 🌱 I’m currently learning **C#, ASP.NET Core, Java, Android Development**
+
+---
+
+## 📫 How to reach me:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://www.facebook.com/your-facebook" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
+  </a> 
+  <a href="https://github.com/ltthanh2712" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="mailto:your.email@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
 </p>
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
-
+## 🛠 Skills:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ltthanh2712&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ltthanh2712&theme=tokyonight" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/intellij-idea.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
 ---
 
-<h2 align="center">📫 Liên hệ</h2>
+## 📊 Activities:
 
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltthanh2712&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20languages%20used" alt="ltthanh2712" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ltthanh2712&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="ltthanh2712" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">⚡ Cảm ơn bạn đã ghé thăm trang của mình!</p>
+## 🏅 Certificates:
+<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+
+- 💡 Responsive Web Design - freeCodeCamp  
+- 🧠 Java OOP Certificate - CodingSchool  
+- 🎓 ASP.NET Core MVC - internal university project  
+
+---
+
+<p align="center">⭐️ Thank you for visiting my GitHub profile!</p>
